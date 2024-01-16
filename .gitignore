@@ -56,5 +56,3 @@ x64/
 
 # Ignore all .sln files except the main project file
 .idea/
-*.sln
-!ChernoLearn.sln
